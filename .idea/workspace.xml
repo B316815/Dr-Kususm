@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a111f0c-3e2a-4ddf-a882-1a5305744b2c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Controller/AppointmentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Controller/BillingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Controller/ClinicController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Controller/DoctorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Controller/PatientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Controller/PrescriptionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Controller/ReportController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Controller/ReviewController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/DoctorApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Entity/Appointment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Entity/Billing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Entity/Clinic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Entity/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Entity/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Entity/Prescription.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Entity/Report.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Entity/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Payload/AppointmentDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Payload/BillingDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Payload/ClinicDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Payload/DoctorDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Payload/PatientDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Payload/PrescriptionDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Payload/ReportDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Payload/ReviewDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Payload/UserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Repository/AppointmentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Repository/BillingRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Repository/ClinicRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Repository/DoctorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Repository/PatientRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Repository/PrescriptionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Repository/ReportRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Repository/ReviewRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Service/AppointmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Service/AppointmentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Service/BillingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Service/BillingServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Service/ClinicService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Service/ClinicServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Service/DoctorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Service/DoctorServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Service/PatientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Service/PatientServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Service/PrescriptionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Service/PrescriptionServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Service/ReportService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Service/ReportServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Service/ReviewService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Service/ReviewServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Doctors/Service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Doctors/DoctorApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Config/SecurityConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Controller/AppointmentController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Controller/BillingController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Controller/ClinicController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Controller/DoctorController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Controller/PatientController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Controller/PrescriptionController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Controller/ReportController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Controller/ReviewController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/DoctorApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Entity/Appointment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Entity/Billing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Entity/Clinic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Entity/Doctor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Entity/Patient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Entity/Prescription.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Entity/Report.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Entity/Review.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Payload/AppointmentDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Payload/BillingDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Payload/ClinicDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Payload/DoctorDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Payload/PatientDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Payload/PrescriptionDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Payload/ReportDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Payload/ReviewDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Payload/UserDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Repository/AppointmentRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Repository/BillingRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Repository/ClinicRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Repository/DoctorRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Repository/PatientRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Repository/PrescriptionRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Repository/ReportRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Repository/ReviewRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Repository/UserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Service/AppointmentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Service/AppointmentServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Service/BillingService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Service/BillingServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Service/ClinicService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Service/ClinicServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Service/DoctorService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Service/DoctorServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Service/PatientService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Service/PatientServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Service/PrescriptionService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Service/PrescriptionServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Service/ReportService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Service/ReportServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Service/ReviewService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Service/ReviewServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Doctors/Service/UserServiceImpl.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="AnnotationType" />
+        <option value="com.haulmont.jpb.JpaEntity" />
+        <option value="com.haulmont.jpb.JpaRepository" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2lEdsJG4nnaFwyGrjFhj1fp2mFK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DoctorApplication.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "<unknown>",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "G:/IJ-idea/doctor/doctor",
+    "settings.editor.selected.configurable": "com.haulmont.jpb.entityDeclaration"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.Doctors.Entity" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DoctorApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Doctors.DoctorApplication" />
+      <module name="doctor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Doctors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DoctorApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-107bc6b7" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a111f0c-3e2a-4ddf-a882-1a5305744b2c" name="Changes" comment="" />
+      <created>1724749374543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724749374543</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
