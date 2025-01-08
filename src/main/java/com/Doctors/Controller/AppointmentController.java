@@ -4,6 +4,7 @@ import com.Doctors.Payload.AppointmentDto;
 import com.Doctors.Service.AppointmentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
+import org.springframework.http.converter.json.GsonBuilderUtils;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
@@ -11,8 +12,7 @@ import java.util.List;
     @RestController
     @RequestMapping("/api/d1/appointments")
     public class AppointmentController {
-
-
+       
         private AppointmentService appointmentService;
 
         public AppointmentController(AppointmentService appointmentService) {
